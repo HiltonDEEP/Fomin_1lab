@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>g11_koltsov lab01</title>
+	</head>
+	<body>
+		<a href="index.html">Вернуться обратно</a>
+		<h1>table of contents</h1>
+		<a href="#section1">Перейти в раздел 1</a>
+		<a href="#section2">Перейти в раздел 2</a>
+		<hr>
+		<h2 id="section1">this is section 1</h2>
+		some text<br>
+		<hr>
+		<h2 id="section2">this is section 2</h2>
+		more text<br>
+		even more long text<br>
+	</body>
+</html>
